@@ -11,9 +11,10 @@
   - Raspberry Pi 기반의 독립적인 On-Device AI 게임 구현
   - 실시간 손동작 인식을 통한 사용자 입력 편의성 및 게임 몰입도 향상
   -데이터 증강 및 모델 최적화를 통한 다양한 환경에서의 손동작 인식 안정성 확보
+
 ---
 
-### 게임 설명
+## 게임 설명
 - 카메라로 사용자의 손동작을 인식하여 제시된 손동작과 일치하는지 판단하는 게임
 - 제시된 손동작을 기억하고 순서대로 입력하며, 성공 횟수에 따라 점수를 획득하는 방식
 - 클래스 분류 : sicssors, rock, paper, spiderman, thumb, okey, circle
@@ -33,5 +34,6 @@
   <img src="https://github.com/user-attachments/assets/58942c6d-4ddc-482b-9a61-f1b424367005" height="250">
 </div>
 
-
 ---
+
+## 학습 환경
