@@ -17,6 +17,7 @@
 ## 게임 설명
 - 카메라로 사용자의 손동작을 인식하여 제시된 손동작과 일치하는지 판단하는 게임
 - 제시된 손동작을 기억하고 순서대로 입력하며, 성공 횟수에 따라 점수를 획득하는 방식
+- 텍스트/이미지 제시 -> 3초 뒤 화면 캡쳐 -> 사진의 손 모양 인식 ->판정
 - 클래스 분류 : sicssors, rock, paper, spiderman, thumb, okey, circle
 
 <div align="center">
@@ -28,6 +29,14 @@
   <img src="https://github.com/user-attachments/assets/3def095f-4e53-4219-b9c4-7719192b78c5" height="150">
   <img src="https://github.com/user-attachments/assets/58942c6d-4ddc-482b-9a61-f1b424367005" height="150">
 </div>
+
+
+
+
+| 조작    | 동작  | 
+|START REC 버튼 / 스페이스 | 게임 시 | 
+| q     |      	종료 |  
+
 
 ---
 
